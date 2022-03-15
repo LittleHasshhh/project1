@@ -24,7 +24,7 @@ COMMANDE POUR CONNECTER LE PROJECTDE L'ORDI A GITHUB
 
 git remote add origin https://github.com/LittleHasshhh/project1.git
 
-
+                                                    -----------------------------------------------------------------------------
 
 COMMANDE POUR SAVE ET PUSH TOUT LES MODIF SUR GITHUB
 
