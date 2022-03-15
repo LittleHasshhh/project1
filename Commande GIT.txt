@@ -1,0 +1,35 @@
+COMMANDE POUR SE CO (la premiere fois sur une nouvelle machine)
+
+git config --global user.name "Adrien Payet"
+git config --global user.email "payet.ad@gmail.com"
+
+
+
+COMMANDE POUR NAVIGUER SUR LE DISQUE DUR
+
+cd  (exemple: cd Desktop/Project1)
+
+dir (pour verifier les elements du dossier)
+
+
+
+COMMANDE POUR INITIALISER LE PROJECT
+
+git init (initialise le project)
+message comfirmation init: Initialized empty Git repository in C:/Users/WebForce3/Desktop/Project1/.git/
+
+
+
+COMMANDE POUR CONNECTER LE PROJECTDE L'ORDI A GITHUB
+
+git remote add origin https://github.com/LittleHasshhh/project1.git
+
+
+
+COMMANDE POUR SAVE ET PUSH TOUT LES MODIF SUR GITHUB
+
+git add . (pour enregistrer sur mon terminal/le point c'est pour add tout les changement de tous le fichier sinon il faut preciser)
+
+git commit -m "changement fait sur le dossier" (pour donner un nom au log)
+
+git push -u origin master (pour save les changement du dossier sur github)
