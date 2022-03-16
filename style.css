@@ -1,0 +1,12 @@
+p {
+    color: darkred;
+    font-size: 50px;
+}
+
+.truc {
+    color: blueviolet;
+}
+#strong {
+    color: chartreuse;
+    font-weight: normal;
+}
